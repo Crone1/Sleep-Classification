@@ -12,4 +12,3 @@ This code consists of three notebooks with each notebook being numbered by the o
    - We used the tsfresh library for this,  in particular, its extract_features and select_features functions
 3. Classification and Results (3-classification-and-results.ipynb)
    - Here we used a number of models in the Scikit-learn package and also carried out several experiments
-
